@@ -2,7 +2,7 @@
 
 🍽️ Le Restaurant
 
-Le Restauration est une version avancée de Pizza Mama, développée avec Django, HTML, et CSS. Ce projet propose une interface dynamique pour présenter les informations d’un restaurant, ses horaires d’ouverture, un système de réservation, ainsi qu’un menu détaillé (pizzas, plats, vins) organisé par catégories.
+Le Restaurant est une version avancée de Pizza Mama, développée avec Django, HTML, et CSS. Ce projet propose une interface dynamique pour présenter les informations d’un restaurant, ses horaires d’ouverture, un système de réservation, ainsi qu’un menu détaillé (pizzas, plats, vins) organisé par catégories.
 
 📋 Fonctionnalités
 	•	Page d’accueil :
