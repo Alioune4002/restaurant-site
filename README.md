@@ -23,7 +23,7 @@ Le Restauration est une version avancée de Pizza Mama, développée avec Django
 
 1. Clonez le dépôt
 
-git clone https://github.com/votre-utilisateur/site-resto.git
+git clone https://github.com/Alioune4002/restaurant-site.git
 cd site-resto
 
 2. Créez un environnement virtuel et activez-le
